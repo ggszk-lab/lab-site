@@ -2,3 +2,32 @@ baseURL = 'https://example.org/'
 languageCode = 'ja-JP'
 title = 'ggszk-lab'
 theme = "PaperMod"
+
+[params]
+disableSpecial1stPost = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+[menu]
+  [[menu.main]]
+    name = "プロフィール"
+    url = "/profile/"
+    weight = 10
+
+  [[menu.main]]
+    name = "研究の概要"
+    url = "/research/"
+    weight = 20
+
+  [[menu.main]]
+    name = "主な研究成果"
+    url = "/papers/"
+    weight = 30
+
+  [[menu.main]]
+    name = "音楽とクラリネット"
+    url = "/music/"
+    weight = 40
