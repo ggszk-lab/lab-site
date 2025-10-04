@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://lab.ggszk.org/"
 languageCode = 'ja-JP'
 title = 'ggszk-lab'
 theme = "PaperMod"
@@ -10,7 +10,7 @@ disableSpecial1stPost = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [menu]
   [[menu.main]]
     name = "プロフィール"
