@@ -1,7 +1,7 @@
 baseURL = "https://lab.ggszk.org/"
 languageCode = 'ja-JP'
 title = 'ggszk-lab'
-theme = "PaperMod"
+theme = "github.com/adityatelange/hugo-PaperMod"
 
 [params]
 disableSpecial1stPost = true
