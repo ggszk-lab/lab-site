@@ -1,7 +1,7 @@
 baseURL = "https://lab.ggszk.org/"
 languageCode = 'ja-JP'
 title = 'ggszk-lab'
-theme = "github.com/adityatelange/hugo-PaperMod"
+theme = "PaperMod"
 
 [params]
 disableSpecial1stPost = true
@@ -31,4 +31,3 @@ disableSpecial1stPost = true
     name = "音楽とクラリネット"
     url = "/music/"
     weight = 40
-    
