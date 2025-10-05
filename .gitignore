@@ -1,3 +1,6 @@
+# Hugo build lock file
+.hugo_build.lock
+
 # ビルド成果物（毎回生成されるのでGitには不要）
 public/
 
