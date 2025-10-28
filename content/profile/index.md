@@ -27,7 +27,7 @@ title = 'プロフィール'
 ---
 ### 関心分野（Interest）
 
-- Database Management（Graph-，Multi-）
+- Database Management（Multi-, Graph-）
 - Data Science  
 - Software Engineering  
 - Music Information Processing / Retrieval  

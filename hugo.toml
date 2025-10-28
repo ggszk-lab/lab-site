@@ -28,6 +28,11 @@ disableSpecial1stPost = true
     weight = 30
 
   [[menu.main]]
+    name = "ゼミ研究テーマ"
+    url = "/students/"
+    weight = 40
+
+  [[menu.main]]
     name = "音楽とクラリネット"
     url = "/music/"
-    weight = 40
+    weight = 50
