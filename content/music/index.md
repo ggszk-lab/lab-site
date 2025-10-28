@@ -8,9 +8,9 @@ title = '音楽とクラリネット'
     * 演奏録音などをまとめています．
     * [YouTubeで見る](https://www.youtube.com/channel/UCGVcl36-GwpxBayk_uUJvCA)
 
-* ブログ（Clarinotes）
+* ブログ（ggszk’s music notes）
     * クラリネットや音楽に関する個人的な記録や考察をメモ形式で書く予定です．
-    * [ggszk-clarinotes.blogspot.com](https://ggszk-clarinotes.blogspot.com/)
+    * [ggszk.hatenablog.com](https://ggszk.hatenablog.com/)
 
 ### My clarinet
 私のクラリネットの仕掛け
