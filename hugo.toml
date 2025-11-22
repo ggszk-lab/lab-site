@@ -6,6 +6,14 @@ theme = "PaperMod"
 [params]
 disableSpecial1stPost = true
 
+[params.label]
+  text = "ggszk-lab"
+  icon = "images/ggszk-lab-logo_sq2.png"
+  iconHeight = 35
+
+[params.assets]
+  favicon = "images/ggszk-lab-logo_sq2.png"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
