@@ -21,6 +21,11 @@ disableSpecial1stPost = true
 
 [menu]
   [[menu.main]]
+    name = "News"
+    url = "/posts/"
+    weight = 5
+
+  [[menu.main]]
     name = "プロフィール"
     url = "/profile/"
     weight = 10
