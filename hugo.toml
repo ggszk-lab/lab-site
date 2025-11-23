@@ -26,7 +26,7 @@ disableSpecial1stPost = true
     weight = 10
 
   [[menu.main]]
-    name = "研究の概要"
+    name = "研究の理念と活動"
     url = "/research/"
     weight = 20
 
