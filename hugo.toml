@@ -46,6 +46,11 @@ disableSpecial1stPost = true
     weight = 40
 
   [[menu.main]]
+    name = "学生の対外活動"
+    url = "/activities/"
+    weight = 45
+
+  [[menu.main]]
     name = "音楽とクラリネット"
     url = "/music/"
     weight = 50
