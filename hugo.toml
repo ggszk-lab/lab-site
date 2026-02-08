@@ -21,7 +21,7 @@ disableSpecial1stPost = true
 
 [menu]
   [[menu.main]]
-    name = "News"
+    name = "お知らせ"
     url = "/posts/"
     weight = 5
 
@@ -31,27 +31,27 @@ disableSpecial1stPost = true
     weight = 10
 
   [[menu.main]]
-    name = "研究の理念と活動"
+    name = "研究活動"
     url = "/research/"
     weight = 20
 
   [[menu.main]]
-    name = "主な研究成果"
+    name = "研究成果"
     url = "/papers/"
     weight = 30
 
   [[menu.main]]
-    name = "ゼミ研究テーマ"
+    name = "ゼミテーマ"
     url = "/students/"
     weight = 40
 
   [[menu.main]]
-    name = "学生の対外活動"
+    name = "対外活動"
     url = "/activities/"
     weight = 45
 
   [[menu.main]]
-    name = "音楽とクラリネット"
+    name = "音楽"
     url = "/music/"
     weight = 50
 

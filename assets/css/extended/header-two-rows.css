@@ -1,0 +1,22 @@
+/* Force PaperMod header to use two rows: logo on first row, menu on second row */
+
+.nav {
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.logo {
+  flex: 1 1 100%;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#menu {
+  flex: 1 1 100%;
+  width: 100%;
+  justify-content: flex-start;
+  margin-top: 0;
+  margin-bottom: 0;
+}

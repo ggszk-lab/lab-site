@@ -1,0 +1,5 @@
+/* Reduce the extra top spacing on the home page where .post-content appears without a page header */
+
+.main > .post-content:first-child {
+  margin-top: 0;
+}
