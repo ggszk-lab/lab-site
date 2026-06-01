@@ -24,16 +24,21 @@ title = 'プロフィール'
 **researchmap**
 [https://researchmap.jp/ggszk](https://researchmap.jp/ggszk)
 
+**GitHub（研究室）**
+[https://github.com/ggszk-lab](https://github.com/ggszk-lab)
+
 **English Profile**
 [English Profile](/profile-en/)
 
 ---
 ### 関心分野（Interest）
 
-- Database Management（Multi-, Graph-）
+- Performance Analysis（演奏分析・観測信号からの行動の質の定量化）  
+- Music Information Processing / Retrieval（音高・音色・演奏表現，歌詞と旋律の対応，数理的音楽特徴量）  
+- Programming Behavior Analysis（エディタログ解析）  
 - Data Science  
 - Software Engineering  
-- Music Information Processing / Retrieval  
+- Database Management（Multi-, Graph-）  
 - Harmonic Analysis（Mathematics）  
 - 20th Century（Classical）Music  
 - Clarinet，…

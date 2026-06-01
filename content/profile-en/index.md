@@ -23,13 +23,18 @@ Gengo Suzuki received his M.Sc. in Mathematics from Tohoku University in 1990. H
 Information Processing Society of Japan (IPSJ), Institute of Electronics, Information and Communication Engineers (IEICE), the Database Society of Japan (DBSJ), Japan Social Data Science Society (JSDSS), Association for Computing Machinery (ACM)
 
 **Research Interests**
-- Database Management (Multi-database, Graph Database)
+- Performance Analysis (quantifying the quality of human activity from observation signals — audio & editor logs)
+- Music Information Processing / Retrieval (pitch, timbre & performance expression, lyric–melody correspondence, mathematical music features)
+- Programming Behavior Analysis (editor-log–based skill quantification)
 - Data Science
 - Software Engineering
-- Music Information Processing / Retrieval
+- Database Management (Multi-database, Graph Database)
 
 **researchmap**
 [https://researchmap.jp/ggszk](https://researchmap.jp/ggszk)
+
+**GitHub (Lab)**
+[https://github.com/ggszk-lab](https://github.com/ggszk-lab)
 
 ---
 [日本語プロフィール / Japanese Profile](/profile/)
