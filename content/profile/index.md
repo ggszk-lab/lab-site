@@ -8,7 +8,7 @@ title = 'プロフィール'
   <div>
     <strong>鈴木源吾（Gengo Suzuki）</strong><br>
     開志専門職大学 情報学部 教授<br>
-    数理・データサイエンスセンター長<br>
+    開志AI・数理データサイエンスセンター長<br>
   </div>
 </div>
 

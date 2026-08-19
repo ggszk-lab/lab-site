@@ -8,7 +8,7 @@ title = 'Profile'
   <div>
     <strong>Gengo Suzuki</strong><br>
     Professor, Faculty of Information<br>
-    Director, Mathematical and Data Science Center<br>
+    Director, Kaishi AI and Mathematical Data Science Center<br>
     Kaishi Professional University, Niigata, Japan
   </div>
 </div>
